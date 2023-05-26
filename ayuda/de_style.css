@@ -1,0 +1,131 @@
+.detbl
+{
+direction:ltr; border-spacing:0px;
+border-collapse: collapse;
+border: 0px none black;
+}
+.de_list
+{
+margin: 0;
+}
+div.p
+{
+margin-top:0px;
+margin-bottom:0px;
+font-weight:normal;
+}
+
+div.description_on_page div.p
+{font-family:"Arial";
+font-size: 11pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+}
+h1
+{
+font-family:"Arial";
+font-size: 13pt;color:#375db0;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline-block;
+margin:0;
+padding:0;
+}
+h2
+{
+font-family:"Arial";
+font-size: 11pt;color:#4f87fd;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline-block;
+margin:0;
+padding:0;
+}
+span.code
+{
+font-family:"Courier New";
+font-size: 11pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+}
+span.quote
+{
+font-family:"Georgia";
+font-size: 11pt;color:#000000;
+font-style:italic;
+text-decoration:none;
+font-weight:normal;
+}
+img.de_780D01ADE8
+{
+margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+span.de_21F87AD758
+{
+	font-family: "ArialCalibri";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_38C87F04D7
+{
+	font-family: " Arial";
+	font-size: 14pt;
+	color:#000000;
+}
+span.de_3AF7BB4146
+{
+	font-family: "";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_4CD179DA38
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_51B6EDA5E8
+{
+	font-family: " Arial";
+	font-size: 14pt;
+	color:#375db0;
+}
+span.de_5E823888B7
+{
+	font-family: " Arial";
+	font-size: 13pt;
+	color:#375db0;
+}
+span.de_6C0AE064CE
+{
+	font-family: "ArialCalibri";
+	font-size: 12pt;
+	color:#000000;
+}
+span.de_91C0824FF4
+{
+	font-family: " Arial";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_9344C9D585
+{
+	font-family: "ArialCalibri";
+	font-size: 11pt;
+	color:#3741c8;
+}
+span.de_D6409C43B2
+{
+	font-family: "Arial";
+	font-size: 13pt;
+	color:#375db0;
+}
+span.de_EA40463F2A
+{
+	font-family: "";
+	font-size: 13pt;
+	color:#000000;
+}
